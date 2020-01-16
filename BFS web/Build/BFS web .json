@@ -1,0 +1,10 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "BFS web .data.unityweb",
+"asmCodeUrl": "BFS web .asm.code.unityweb",
+"asmMemoryUrl": "BFS web .asm.memory.unityweb",
+"asmFrameworkUrl": "BFS web .asm.framework.unityweb",
+"backgroundUrl": "BFS web .jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
